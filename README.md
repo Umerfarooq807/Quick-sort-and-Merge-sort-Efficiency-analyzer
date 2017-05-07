@@ -8,4 +8,4 @@ then apply Merge sort and Quick sort on it.
 Show totle steps in both sorting techniques and show total number of key comparisons for
 each sorting approach; and proves which one is better sorting approach by analyzing
 minimal key comparisons.
-![Alt text](/Screenshot.png?raw=true "Optional Title")
+![Alt text](/Screenshot.PNG?raw=true "Optional Title")
